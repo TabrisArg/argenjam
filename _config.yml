@@ -1,9 +1,9 @@
 # Site settings
+title: ArgenJam
+description: This is the landing page for the ArgenJam Game Jam
 baseurl: "/argenjam/" # the subpath of your site, e.g. /blog/
 url: "https://tabrisarg.github.io/argenjam/" # the base hostname & protocol for your site
-title: ArgenJam
 email:
-#description: >  this means to ignore newlines until "baseurl:"
 twitter_username:
 github_username:
 
