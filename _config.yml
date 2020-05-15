@@ -1,5 +1,5 @@
 # Site settings
-baseurl: "https://tabrisarg.github.io/argenjam/" # the subpath of your site, e.g. /blog/
+baseurl: "tabrisarg.github.io/argenjam/" # the subpath of your site, e.g. /blog/
 url: "https://tabrisarg.github.io/argenjam/" # the base hostname & protocol for your site
 title: ArgenJam
 email:
