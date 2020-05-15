@@ -155,7 +155,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    background-image: url('../img/header_2.png');
     text-align: center;
     color: white;
     .header-content {
@@ -281,6 +281,12 @@ header {
 .call-to-action {
     h2 {
         margin: 0 auto 20px;
+    }
+}
+
+.contact{
+    .footer_copy {
+        background-color: rgba($color: #941414, $alpha: 1.0);
     }
 }
 
