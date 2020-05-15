@@ -2,7 +2,7 @@
 title: ArgenJam
 email:
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "tabrisarg.github.io/argenjam/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://tabrisarg.github.io/argenjam/" # the base hostname & protocol for your site
 
 twitter_username:
