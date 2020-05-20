@@ -3,8 +3,9 @@ title: ArgenJam
 description: This is the landing page for the ArgenJam Game Jam
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: 'https://tabrisarg.github.io/argenjam/' # the base hostname & protocol for your site
-email:
-twitter_username:
+email: "argengamejam@gmail.com"
+twitter_username: "@ArgenJam"
+discord_channel: "ArgenJam Participantes"
 
 # Build settings
 markdown: kramdown
