@@ -6,6 +6,7 @@ url: 'https://tabrisarg.github.io/argenjam/' # the base hostname & protocol for 
 email: "argengamejam@gmail.com"
 twitter_username: "@ArgenJam"
 discord_channel: "ArgenJam Participantes"
+facebook_page_url: "https://www.facebook.com/ArgenJam-114335890284563/" 
 
 # Build settings
 markdown: kramdown
